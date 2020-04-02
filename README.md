@@ -10,12 +10,11 @@ The Project is based on ROS Kinetic version.
 
 ### Setup Kvaser library ###
 
-* $ wget –content-disposition “https://www.kvaser.com/downloads-kvaser/?utm_source=software&utm_ean=7330130980754&utm_status=latest”
-
-*$ tar xf linuxcan.tar.gz
-*$ cd linuxcan
-*$ make
-*$ sudo make install
+$ wget –content-disposition “https://www.kvaser.com/downloads-kvaser/?utm_source=software&utm_ean=7330130980754&utm_status=latest”
+$ tar xf linuxcan.tar.gz
+$ cd linuxcan
+$ make
+$ sudo make install
 ```
 
 
@@ -23,5 +22,5 @@ The Project is based on ROS Kinetic version.
 
 ### How do I run the Project? ###
 
-* rosrun optoforce optoforce_node
+$ rosrun optoforce optoforce_node
 ```
