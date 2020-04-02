@@ -1,0 +1,12 @@
+float64 Fx_R
+float64 Fy_R
+float64 Fz_R
+float64 Tx_R
+float64 Ty_R
+float64 Tz_R
+float64 Fx_L
+float64 Fy_L
+float64 Fz_L
+float64 Tx_L
+float64 Ty_L
+float64 Tz_L
